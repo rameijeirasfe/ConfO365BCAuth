@@ -12,8 +12,10 @@ Una vez terminada la ejecución del script se reiniciará la instancia de Busine
 
 
 web:     www.robertoameijeiras.com
+
 mail:    robertoameijeiras@gmail.com
-Twitter: @r_ameijeiras
+
+twitter: @r_ameijeiras
 
 
 
