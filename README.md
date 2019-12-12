@@ -21,7 +21,7 @@ Una vez iniciado el script nos solicitará la siguiente información:
 
 Una vez terminada la ejecución del script se reiniciará la instancia de Business Central.
 
-Más información en [**Authenticating Business Central Users with Azure Active Directory**] (https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/authenticating-users-with-azure-active-directory)
+Más información en [**Authenticating Business Central Users with Azure Active Directory**](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/administration/authenticating-users-with-azure-active-directory)
 
 # Acerca de 
 
